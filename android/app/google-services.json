@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553670123570",
+    "project_id": "chat-flash-cc662",
+    "storage_bucket": "chat-flash-cc662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553670123570:android:fbc9ae4bd77b8d6781dc2b",
+        "android_client_info": {
+          "package_name": "com.nuriddin.project_chat_flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553670123570-uivattepjtl442u7c41cc4lb8nn55ehh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjblJeRH9zUHJ233Hq0AT1p8I69mroOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553670123570-uivattepjtl442u7c41cc4lb8nn55ehh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
