@@ -1,4 +1,4 @@
-# project_chat_flash
+# chat_flash
 
 A new Flutter project.
 
